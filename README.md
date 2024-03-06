@@ -1,1 +1,1 @@
-This repo contains the code to send a GET and POST request to springboot
+This repo contains the code to send a GET and POST request to springboot from React.
